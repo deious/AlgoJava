@@ -1,9 +1,7 @@
-package ex;
-
 import java.io.*;
 import java.util.*;
 
-public class Main_bj_1992_쿼드트리_서울_20반_김한성 {
+public class Main {
 
 	static int[][] board;
 	static StringBuilder sb = new StringBuilder();

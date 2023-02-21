@@ -1,12 +1,10 @@
-package ex;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_bj_1244_스위치켜고끄기_서울_20반_김한성 {
+public class Main {
 
 	
 	static int N, M;

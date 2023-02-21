@@ -1,9 +1,7 @@
-package ex;
-
 import java.io.*;
 import java.util.*;
 
-public class Main_bj_2630_색종이만들기_서울_20반_김한성 {
+public class Main {
 	static int white = 0;
 	static int green = 0;
 	static int[][] spaces;

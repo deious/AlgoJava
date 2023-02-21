@@ -1,9 +1,7 @@
-package ex;
-
 import java.io.*;
 import java.util.*;
 
-public class Main_bj_1158_요세푸스문제_서울_20반_김한성 {
+public class Main {
 
 	static ArrayDeque<Integer> q = new ArrayDeque<Integer>();
 	static int qCnt = 0;
